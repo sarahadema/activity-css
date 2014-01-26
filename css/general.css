@@ -3,23 +3,52 @@ html {
 }
 
 body {
-    font-family:Helvetica, Arial, sans-serif;
+    background-color:#FFF8DC
 }
 
 h1 {
     font-family: Mistral std, serif; 
     font-size: 4rem;
     line-height: 4rem;
-    color: #892034
+    color: #A52A2A
 }
 
 hr {
-    border: solid 5px
+    border: solid 2px #A52A2A
 }
 
 h2 {
     font-family: Helvetica, sans-serif;
     font-size: 1.5rem;
-    color: #892034
+    color:#A52A2A
 }
 
+p,
+li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+p strong {
+    color: #A52A2A
+}
+
+strong {
+    font-weight:bold;
+}
+
+em {
+    font-weight: italic;
+}
+
+li {
+    color: #A52A2A
+}
+
+ ul li:first-child {
+    font-weight: bold
+}
+
+
+
+    
