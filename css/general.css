@@ -49,6 +49,12 @@ li {
     font-weight: bold
 }
 
+ul li:last-child {
+    font-family: Mistral std, serif;
+    font-weight: italic;
+}
+
+
 
 
     
