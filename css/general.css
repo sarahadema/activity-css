@@ -7,10 +7,10 @@ body {
 }
 
 h1 {
-    font-family: Mistral std, serif; 
+    font-family: Mistral std,serif; 
     font-size: 4rem;
     line-height: 4rem;
-    color: #A52A2A
+    color:#A52A2A
 }
 
 hr {
@@ -30,7 +30,7 @@ li {
 }
 
 p strong {
-    color: #A52A2A
+    color:#A52A2A
 }
 
 strong {
@@ -42,7 +42,7 @@ em {
 }
 
 li {
-    color: #A52A2A
+    color:#A52A2A
 }
 
  ul li:first-child {
